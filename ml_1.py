@@ -1,5 +1,4 @@
 import math
-import quandl
 import datetime
 import numpy as np
 import pandas as pd
